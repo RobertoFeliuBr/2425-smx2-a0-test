@@ -11,9 +11,9 @@ isisisis
 ##### H5
 ###### H6
 
-Este texto está en *negrita*
+Este texto está en **negrita**
 
-Este texto esta en **cursiva**
+Este texto esta en *cursiva*
 
 1. *Primer elemento*
 	1.1 primer sublista
