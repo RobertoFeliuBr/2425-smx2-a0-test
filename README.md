@@ -15,7 +15,7 @@ Este texto está en *negrita*
 
 Este texto esta en **cursiva**
 
-1. Primer elemento
+1. *Primer elemento*
 	1.1 primer sublista
 	1.2 segundo subelemento
 2. Segundo elemento
@@ -26,3 +26,4 @@ Este texto esta en **cursiva**
 * Elemento 1
 - Elemento 2
 + Elemento 3
+
