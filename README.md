@@ -10,3 +10,6 @@ isisisis
 #### H4
 ##### H5
 ###### H6
+
+Este texto está en *negrita*
+Este texti esta en _cursiva_
