@@ -29,4 +29,4 @@ Este texto esta en *cursiva*
 
 ``# Encabezado3``
 
-[Enlace a la web del cole](https://www.fje.edu/ca/fje)
+[Enlace a la web del cole](https://www.fje.edu/ca/fje "Jesuitas")
