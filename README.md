@@ -30,3 +30,6 @@ Este texto esta en *cursiva*
 ``# Encabezado3``
 
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Jesuitas")
+
+
+![Caballos](https://github.com/RobertoFeliuBr/2425-smx2-a0-test/blob/main/caballo.jpeg "titulo de la imagen")
