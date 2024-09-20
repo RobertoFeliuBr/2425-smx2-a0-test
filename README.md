@@ -2,7 +2,7 @@
 1r proyecto prueba
 isisisis
 
--1ra actividad entregar en repositio de 
+-1ra actividad entregar en repositorio de github 
 - hacer titulo/encabezado
 # encabezado 1
 ## encabezado 2 
@@ -12,4 +12,5 @@ isisisis
 ###### H6
 
 Este texto está en *negrita*
-Este texti esta en _cursiva_
+
+Este texto esta en **cursiva**
