@@ -36,7 +36,7 @@ Este texto esta en *cursiva*
 
 
 |Columna1 |Columna2 | Columna 3 |
-|-------------|:------p-----:|----------:|
+|-------------|:-----------:|----------:|
 |Col 3 es |right-aligned|$1600|
 |Col 2 es |centered|$12|
 |zebra stripes|son limpias|$1
