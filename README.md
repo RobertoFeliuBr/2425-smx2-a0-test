@@ -33,3 +33,9 @@ Este texto esta en *cursiva*
 
 
 ![Caballos](https://github.com/RobertoFeliuBr/2425-smx2-a0-test/blob/main/caballo.jpeg "titulo de la imagen")
+
+
+|Columna1 |Columna2 | Columna 3 |
+|-------------|:------p-----:|----------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
